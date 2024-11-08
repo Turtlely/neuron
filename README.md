@@ -1,2 +1,1 @@
-# neuron
- 
+# Hodgkins-Huxley model of neuronal dynamics
